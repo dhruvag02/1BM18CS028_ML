@@ -1,0 +1,5 @@
+weather,temperature,humidity,wind,goes
+sunny,warm,mild,strong,yes
+rainy,cold,mild,normal,no
+sunny,moderate,normal,normal,yes
+sunny,cold,high,strong,yes
